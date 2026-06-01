@@ -1,0 +1,6 @@
+{
+  "name": "Chitron Archive - Admin Dashboard",
+  "description": "A secure admin dashboard for the Chitron Archive to manage news posts, media, and publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
